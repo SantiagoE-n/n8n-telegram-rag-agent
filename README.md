@@ -76,6 +76,3 @@ n8n · Telegram Trigger/Bot API · Qdrant (self-hosted, vector database) · Olla
 5. Activate the Telegram chat workflow.
 6. Message your bot with a question about the ingested document.
 
-## Screenshots
-
-_Add a screenshot of both workflow canvases here (`assets/ingestion-workflow.png`, `assets/telegram-chat-workflow.png`)._
